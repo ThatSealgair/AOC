@@ -55,7 +55,6 @@ fn  sliding_window(depth: &Vec<i64>) -> i64 {
 }
 
 
-
 fn main() {
     println!("{}", positive_changes(&read_data()));
     println!("{}", sliding_window(&read_data()));
