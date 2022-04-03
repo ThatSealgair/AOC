@@ -1,0 +1,1 @@
+/mnt/d/Documents/Programming/Hobby/Advent\ of\ Code/AOC/2021/Rust/day_2_dive/target/debug/day_2_dive: /mnt/d/Documents/Programming/Hobby/Advent\ of\ Code/AOC/2021/Rust/day_2_dive/src/input.txt /mnt/d/Documents/Programming/Hobby/Advent\ of\ Code/AOC/2021/Rust/day_2_dive/src/main.rs
