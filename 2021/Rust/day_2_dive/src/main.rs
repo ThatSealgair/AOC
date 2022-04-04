@@ -62,6 +62,6 @@ fn aim(data: &str) -> i64 {
 
 
 fn main() {
-    println!("Part A: {}", navigation(DATA));
-    println!("Part B: {}", aim(DATA));
+    println!("[Distance Travelled] {}", navigation(DATA));
+    println!("[Aim Offset] {}", aim(DATA));
 }

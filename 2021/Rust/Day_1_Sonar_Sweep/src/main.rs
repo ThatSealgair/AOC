@@ -48,6 +48,6 @@ fn  sliding_window(depth: &Vec<i64>) -> i64 {
 
 
 fn main() {
-    println!("Part A: {}", positive_changes(&read_data()));
-    println!("Part B: {}", sliding_window(&read_data()));
+    println!("[Total Increasing Measurements] {}", positive_changes(&read_data()));
+    println!("[Sliding Window Measurements] {}", sliding_window(&read_data()));
 }
